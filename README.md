@@ -10,4 +10,4 @@ Evolution is a combination of selection, crossovers and mutation. Several types 
 whilst mutation is completely random.
 
 
-Credit: Bluefever Software: https://www.youtube.com/channel/UCFkfibjxPzrP0e2WIa8aJCg
+Credit:(game code) Bluefever Software: https://www.youtube.com/channel/UCFkfibjxPzrP0e2WIa8aJCg 
